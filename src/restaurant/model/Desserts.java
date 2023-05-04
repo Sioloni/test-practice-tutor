@@ -1,5 +1,7 @@
-package restaurant;
+package restaurant.model;
 
+
+import restaurant.service.Menu;
 
 public enum Desserts implements Menu {
     CHEESECAKE(34.5);

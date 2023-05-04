@@ -1,4 +1,6 @@
-package restaurant;
+package restaurant.model;
+
+import restaurant.service.Menu;
 
 public class Client {
     private Menu[] menu;

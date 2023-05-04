@@ -1,4 +1,6 @@
-package restaurant;
+package restaurant.model;
+
+import restaurant.service.Menu;
 
 public enum Drink implements Menu {
     COLA(5.6),
